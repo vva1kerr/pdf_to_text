@@ -1,0 +1,7 @@
+streamlit
+pyocr
+Pillow
+python-Levenshtein
+pdf2image
+poppler-utils
+PyPDF2
